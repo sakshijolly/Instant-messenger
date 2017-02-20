@@ -1,0 +1,21 @@
+ALGORITHM
+
+Step 1: Start the process.
+
+Step 2: Create the client module as  class Client by extending thread
+   class.
+
+Step 3: Create the Server module as class Server for accepting
+   connection from clients.
+
+Step 4: Create ClientThread class in Server module to make 10 clients
+   to communuicate.
+
+Step 5: Start the Server.
+
+Step 6: After Server is ready, then run the clients to communicate with
+  each other.
+
+Step 6: Terminate the clients and Server respectively.
+
+Step 7: Stop the process.
